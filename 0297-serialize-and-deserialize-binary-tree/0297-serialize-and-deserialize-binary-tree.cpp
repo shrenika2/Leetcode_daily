@@ -47,14 +47,21 @@ void sh(TreeNode* root , string&s){
         vector<string> nodes ;
         string cur ;
 
-        for (char c : data){
-            if(c==','){
-                nodes.push_back(cur);
-                cur.clear();
-            }else{
-                cur+= c;
-            }
-        }
+        // for (char c : data){
+        //     if(c==','){
+        //         nodes.push_back(cur);
+        //         cur.clear();
+        //     }else{
+        //         cur+= c;
+        //     }
+        // }
+
+        stringstream ss(data);
+string token;
+
+while(getline(ss, token, ',')) {
+     nodes.push_back(token);
+}
         int idx = 0 ;
         return d(nodes , idx);
     }
