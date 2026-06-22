@@ -12,23 +12,8 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        if(!root) return 0 ;
-        int cnt = 0 ;
-        int sum = 0;
-        queue<TreeNode*> q ;
-        q.push(root);
-
-        while(!q.empty()){
-            int sz = q.size();
-            while(sz--){
-               TreeNode* node = q.front();q.pop();
-               cnt++;
-               if(node->left) q.push(node->left);
-               if(node->right) q.push(node->right);
-            }
-            sum+=cnt ;
-            cnt = 0 ;
-        }
-        return sum  ;
+        if(!root) return 0;
+        return 1 + countNodes(root->right) + countNodes(root->left);
+        
     }
 };
