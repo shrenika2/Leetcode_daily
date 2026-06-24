@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0834-sum-of-distances-in-tree) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/shrenika2/Leetcode_daily/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
