@@ -4,7 +4,7 @@ public:
         int n = images.size();
         int m = images[0].size();
         int inicolor = images[sr][sc];
-         
+         if (inicolor == color) return images;
         images[sr][sc]=color;
         vector<vector<int>> vis(n , vector<int>(m , 0));
         queue<pair<int , int>> q;
