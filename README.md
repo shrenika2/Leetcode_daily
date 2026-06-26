@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -87,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
