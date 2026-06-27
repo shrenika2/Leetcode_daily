@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shrenika2/Leetcode_daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shrenika2/Leetcode_daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shrenika2/Leetcode_daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
