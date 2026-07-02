@@ -16,13 +16,17 @@ public:
             string v = it.first;
             double val = it.second;
 
-            pro*= val;
-            
-            dfs(adj , v , des , vis , pro , ans);
-            pro/=val;
+             if(!vis.count(v))
+        {
+            pro *= val;
+
+            dfs(adj, v, des, vis, pro, ans);
+
+            pro /= val;
 
             if(ans != -1.0)
-        return;
+                return;
+        }
         }
     }
     vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) {
