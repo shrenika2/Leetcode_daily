@@ -3,47 +3,49 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        queue<pair<pair<int,int>, int>> q;
-        int f = 0 ;
-        // vector<vector<int>> vis(n , vector<int>(m , 0));
-         int dr[4]={-1 , 0 , 1 , 0};
-         int dc[4]={0 , 1 , 0 , -1};
+
+        queue<pair<int , int>> q ;
+        int time = 0 ;
+        int fresh = 0 ;
         for (int i = 0 ; i < n ; i++){
-            for(int j = 0 ; j < m ; j++){
-                
+            for (int j  =0 ; j < m ; j++){
                 if(grid[i][j]==2){
-                   
-                    q.push({{i , j} , 0});
-                }else if(grid[i][j] == 1){
-                    f++;
+                    q.push({i , j});
+                }else if(grid[i][j]==1){
+                    fresh++;
                 }
-            }}
-            int t = 0 ;
-                    while(!q.empty()){
-                        auto curr = q.front();
-                        q.pop();
+            }
+        }
+        if(fresh==0){
+            return 0 ;
+        }
+        int dr[4]={-1 , 0 , 1 , 0};
+        int dc[4]={0 , 1 , 0 , -1};
 
-                        int r = curr.first.first;
-                        int c = curr.first.second;
-                        int ti = curr.second;
+        while(!q.empty()){
+            int sz = q.size();
+            while(sz--){
+            auto[r , c]=q.front();
+            q.pop();
 
-                        t = max(t , ti);
-                        for(int k = 0 ; k <4 ;k++){
-                            int nr = r + dr[k];
-                            int nc = c + dc[k];
+            for (int k = 0 ; k < 4 ; k++){
+                int nr = r + dr[k];
+                int nc = c + dc[k];
 
-                            if(nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc]==1){
-                                grid[nr][nc]=2;
-                                f--;
-                                q.push({{nr , nc} , ti+1});
-                            }
-                        }
-                    }
-
-                    if(f>0){
-                        return -1 ;
-                    }
-        
-        return t ;
+                if(nr>= 0 && nc>=0 && nr<n && nc<m && grid[nr][nc]==1 ){
+                    fresh--;
+                    grid[nr][nc]=2;
+                    q.push({nr , nc});
+                }
+                
+            }
+           
+            }
+            if(!q.empty()){
+                time++;
+            }
+            
+        }
+        return fresh==0 ? time:-1 ;
     }
 };
