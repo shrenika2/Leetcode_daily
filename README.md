@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/shrenika2/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0834-sum-of-distances-in-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0834-sum-of-distances-in-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shrenika2/Leetcode_daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shrenika2/Leetcode_daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/shrenika2/Leetcode_daily/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
