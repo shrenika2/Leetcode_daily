@@ -1,3 +1,6 @@
+// brute 
+// tc = o(n^2)
+// sc = o(1)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -16,3 +19,20 @@ public:
         return {};
     }
 };
+// optimal 
+// tc = o(n)
+// sc = o(n)
+// class Solution {
+// public:
+//     vector<int> twoSum(vector<int>& nums, int target) {
+//         unordered_map<int,int> mp;
+
+//         for(int i = 0; i < nums.size(); i++) {
+//             int req = target - nums[i];
+//             if(mp.count(req))
+//                 return {mp[req], i};
+//             mp[nums[i]] = i;
+//         }
+//         return {};
+//     }
+// };
