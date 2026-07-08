@@ -64,3 +64,10 @@ public:
     return ans ;
     }
 };
+
+// Time Complexity
+// Sorting: O(n log n)
+// Two pointers for each element: O(n²)
+// Overall: O(n²)
+// Space Complexity
+// O(1) (excluding the output)
