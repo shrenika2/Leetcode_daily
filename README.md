@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0015-3sum) |
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/shrenika2/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/shrenika2/Leetcode_daily/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shrenika2/Leetcode_daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shrenika2/Leetcode_daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/shrenika2/Leetcode_daily/tree/master/0310-minimum-height-trees) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
