@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shrenika2/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shrenika2/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0834-sum-of-distances-in-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/shrenika2/Leetcode_daily/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shrenika2/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Database
 |  |
 | ------- |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shrenika2/Leetcode_daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -190,12 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shrenika2/Leetcode_daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/shrenika2/Leetcode_daily/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shrenika2/Leetcode_daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -238,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/shrenika2/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
