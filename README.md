@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/shrenika2/Leetcode_daily/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shrenika2/Leetcode_daily/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/shrenika2/Leetcode_daily/tree/master/0620-not-boring-movies) |
+| [1693-daily-leads-and-partners](https://github.com/shrenika2/Leetcode_daily/tree/master/1693-daily-leads-and-partners) |
 ## Array
 |  |
 | ------- |
