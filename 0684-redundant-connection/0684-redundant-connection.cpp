@@ -1,32 +1,54 @@
-class Solution {
-public:
-    bool dfs(int u , int v , unordered_map<int , vector<int>> & adj , vector<bool>&vis){
-        vis[u]=true ;
+class DSU{
+public: 
+    vector<int> parent;
+    vector<int> rank;
 
-        if(u == v) return true ;
+    DSU(int n){
+        parent.resize(n+1);
+        rank.resize(n+1 , 0);
 
-        for (auto it : adj[u]){
-            if(!vis[it]){
-                if(dfs(it , v , adj , vis)){
-                    return true ;
-                }
+        for (int i  =1 ; i <= n ; i++){
+            parent[i]=i;
+        }
+    }
+
+    int find(int x){
+        if(x==parent[x]){
+            return x ;
+        }
+        return parent[x]=find(parent[x]);
+    }
+
+    void Union(int x , int y){
+        int xp = find(x);
+        int yp = find(y);
+        if(xp!= yp){
+            if(rank[xp]>rank[yp]){
+                parent[yp]=xp;
+            }else if(rank[xp]<rank[yp]){
+                parent[xp]=yp;
+            }else{
+                parent[xp]=yp;
+                rank[yp]++;
             }
         }
-        return false ;
     }
+};
+
+class Solution {
+public:
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n = edges.size();
-        unordered_map<int , vector<int>> adj ;
+        DSU dsu(n);
 
-        for (auto it : edges){
+        for (auto & it : edges){
             int u = it[0];
             int v = it[1];
-            vector<bool> vis(n+1 , false);
-            if(adj.count(u) && adj.count(v) && dfs(u , v , adj , vis) ){
+
+            if(dsu.find(u)==dsu.find(v)){
                 return it;
             }
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            dsu.Union(u , v);
         }
         return {};
     }
