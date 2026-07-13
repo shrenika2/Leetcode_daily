@@ -1,45 +1,33 @@
 class Solution {
 public:
-    vector<int> parent, r;
+    bool dfs(int u , int v , unordered_map<int , vector<int>> & adj , vector<bool>&vis){
+        vis[u]=true ;
 
-    int find(int x) {
-        if (parent[x] == x)
-            return x;
-        return parent[x] = find(parent[x]);
+        if(u == v) return true ;
+
+        for (auto it : adj[u]){
+            if(!vis[it]){
+                if(dfs(it , v , adj , vis)){
+                    return true ;
+                }
+            }
+        }
+        return false ;
     }
-
-    void Union(int a, int b) {
-        a = find(a);
-        b = find(b);
-
-        if (r[a] < r[b])
-            swap(a, b);
-
-        parent[b] = a;
-
-        if (r[a] == r[b])
-            r[a]++;
-    }
-
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n = edges.size();
+        unordered_map<int , vector<int>> adj ;
 
-        parent.resize(n+1);
-        r.assign(n+1, 0);
-
-        for (int i = 1; i <= n; i++)
-            parent[i] = i;
-
-        for (auto &e : edges) {
-            int u = e[0];
-            int v = e[1];
-
-            if (find(u) == find(v))
-                return e;
-
-            Union(u, v);
+        for (auto it : edges){
+            int u = it[0];
+            int v = it[1];
+            vector<bool> vis(n+1 , false);
+            if(adj.count(u) && adj.count(v) && dfs(u , v , adj , vis) ){
+                return it;
+            }
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-
         return {};
     }
 };
