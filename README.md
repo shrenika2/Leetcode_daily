@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/shrenika2/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0684-redundant-connection](https://github.com/shrenika2/Leetcode_daily/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shrenika2/Leetcode_daily/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/shrenika2/Leetcode_daily/tree/master/0797-all-paths-from-source-to-target) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/shrenika2/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/shrenika2/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shrenika2/Leetcode_daily/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/shrenika2/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shrenika2/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/shrenika2/Leetcode_daily/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shrenika2/Leetcode_daily/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/shrenika2/Leetcode_daily/tree/master/0797-all-paths-from-source-to-target) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/shrenika2/Leetcode_daily/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shrenika2/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shrenika2/Leetcode_daily/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shrenika2/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0088-merge-sorted-array) |
+| [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/shrenika2/Leetcode_daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shrenika2/Leetcode_daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -242,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shrenika2/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shrenika2/Leetcode_daily/tree/master/0076-minimum-window-substring) |
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shrenika2/Leetcode_daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
