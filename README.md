@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/shrenika2/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0834-sum-of-distances-in-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0834-sum-of-distances-in-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrenika2/Leetcode_daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shrenika2/Leetcode_daily/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/shrenika2/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1331-rank-transform-of-an-array) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0743-network-delay-time](https://github.com/shrenika2/Leetcode_daily/tree/master/0743-network-delay-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
