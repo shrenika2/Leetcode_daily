@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shrenika2/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/shrenika2/Leetcode_daily/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shrenika2/Leetcode_daily/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shrenika2/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shrenika2/Leetcode_daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shrenika2/Leetcode_daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shrenika2/Leetcode_daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1331-rank-transform-of-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shrenika2/Leetcode_daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shrenika2/Leetcode_daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shrenika2/Leetcode_daily/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/shrenika2/Leetcode_daily/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shrenika2/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shrenika2/Leetcode_daily/tree/master/2685-count-the-number-of-complete-components) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shrenika2/Leetcode_daily/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shrenika2/Leetcode_daily/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shrenika2/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shrenika2/Leetcode_daily/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -245,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/shrenika2/Leetcode_daily/tree/master/1301-number-of-paths-with-max-score) |
+| [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
@@ -301,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0743-network-delay-time](https://github.com/shrenika2/Leetcode_daily/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
