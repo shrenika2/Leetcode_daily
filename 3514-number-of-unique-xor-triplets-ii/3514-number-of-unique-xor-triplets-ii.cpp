@@ -16,16 +16,14 @@ public:
             for (int j = i ; j < n ; j++){
                 s1[nums[i]^nums[j]] = true;
             }
-        }
-        
+        }       
         for (int i = 0; i < t; i++) {
             if (s1[i]) {
                 for(auto it : nums){
                     anss[i ^ it] = true;
                 }
             }
-        }
-        
+        }        
         int cnt = 0;
         for (int i = 0; i < t; i++) {
             if (anss[i]) cnt++;
