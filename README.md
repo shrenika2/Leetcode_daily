@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shrenika2/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shrenika2/Leetcode_daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0834-sum-of-distances-in-tree) |
+| [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/shrenika2/Leetcode_daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrenika2/Leetcode_daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrenika2/Leetcode_daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shrenika2/Leetcode_daily/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
@@ -481,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0572-subtree-of-another-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
