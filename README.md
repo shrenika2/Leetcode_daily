@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/shrenika2/Leetcode_daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrenika2/Leetcode_daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shrenika2/Leetcode_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
@@ -542,14 +544,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 ## DP on Trees
 |  |
 | ------- |
@@ -573,4 +578,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shrenika2/Leetcode_daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
