@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shrenika2/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shrenika2/Leetcode_daily/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
@@ -607,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shrenika2/Leetcode_daily/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
