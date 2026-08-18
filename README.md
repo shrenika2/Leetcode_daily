@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shrenika2/Leetcode_daily/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/shrenika2/Leetcode_daily/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shrenika2/Leetcode_daily/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/shrenika2/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/shrenika2/Leetcode_daily/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shrenika2/Leetcode_daily/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shrenika2/Leetcode_daily/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shrenika2/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shrenika2/Leetcode_daily/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/shrenika2/Leetcode_daily/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
@@ -619,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shrenika2/Leetcode_daily/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
