@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/shrenika2/Leetcode_daily/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shrenika2/Leetcode_daily/tree/master/0990-satisfiability-of-equality-equations) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/shrenika2/Leetcode_daily/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shrenika2/Leetcode_daily/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/shrenika2/Leetcode_daily/tree/master/0752-open-the-lock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shrenika2/Leetcode_daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/shrenika2/Leetcode_daily/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/shrenika2/Leetcode_daily/tree/master/0841-keys-and-rooms) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/shrenika2/Leetcode_daily/tree/master/0752-open-the-lock) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shrenika2/Leetcode_daily/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -626,4 +630,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shrenika2/Leetcode_daily/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/shrenika2/Leetcode_daily/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
