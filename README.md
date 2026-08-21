@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/shrenika2/Leetcode_daily/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shrenika2/Leetcode_daily/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/shrenika2/Leetcode_daily/tree/master/1514-path-with-maximum-probability) |
+| [1791-find-center-of-star-graph](https://github.com/shrenika2/Leetcode_daily/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shrenika2/Leetcode_daily/tree/master/1971-find-if-path-exists-in-graph) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/shrenika2/Leetcode_daily/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shrenika2/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
