@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shrenika2/Leetcode_daily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrenika2/Leetcode_daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shrenika2/Leetcode_daily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shrenika2/Leetcode_daily/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/shrenika2/Leetcode_daily/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shrenika2/Leetcode_daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shrenika2/Leetcode_daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/shrenika2/Leetcode_daily/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shrenika2/Leetcode_daily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shrenika2/Leetcode_daily/tree/master/1927-sum-game) |
 ## Minimax
 |  |
@@ -608,12 +613,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 ## DP on Trees
 |  |
 | ------- |
