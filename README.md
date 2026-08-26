@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shrenika2/Leetcode_daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shrenika2/Leetcode_daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shrenika2/Leetcode_daily/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shrenika2/Leetcode_daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shrenika2/Leetcode_daily/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shrenika2/Leetcode_daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrenika2/Leetcode_daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
