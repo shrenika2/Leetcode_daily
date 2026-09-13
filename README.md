@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/shrenika2/Leetcode_daily/tree/master/0752-open-the-lock) |
+| [0835-image-overlap](https://github.com/shrenika2/Leetcode_daily/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/shrenika2/Leetcode_daily/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shrenika2/Leetcode_daily/tree/master/0990-satisfiability-of-equality-equations) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shrenika2/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shrenika2/Leetcode_daily/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/shrenika2/Leetcode_daily/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/shrenika2/Leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/shrenika2/Leetcode_daily/tree/master/1301-number-of-paths-with-max-score) |
