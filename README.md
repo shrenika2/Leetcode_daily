@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shrenika2/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/shrenika2/Leetcode_daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shrenika2/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shrenika2/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shrenika2/Leetcode_daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shrenika2/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrenika2/Leetcode_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/shrenika2/Leetcode_daily/tree/master/1288-remove-covered-intervals) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shrenika2/Leetcode_daily/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/shrenika2/Leetcode_daily/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/shrenika2/Leetcode_daily/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/shrenika2/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
