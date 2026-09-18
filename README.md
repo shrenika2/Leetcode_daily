@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/shrenika2/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/shrenika2/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shrenika2/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrenika2/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/shrenika2/Leetcode_daily/tree/master/0752-open-the-lock) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shrenika2/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrenika2/Leetcode_daily/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrenika2/Leetcode_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/shrenika2/Leetcode_daily/tree/master/1288-remove-covered-intervals) |
@@ -563,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/shrenika2/Leetcode_daily/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shrenika2/Leetcode_daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -728,4 +734,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shrenika2/Leetcode_daily/tree/master/0836-rectangle-overlap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
