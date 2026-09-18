@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shrenika2/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shrenika2/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/shrenika2/Leetcode_daily/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shrenika2/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
