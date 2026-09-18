@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shrenika2/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shrenika2/Leetcode_daily/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/shrenika2/Leetcode_daily/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/shrenika2/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shrenika2/Leetcode_daily/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/shrenika2/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shrenika2/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shrenika2/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
