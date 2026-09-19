@@ -1,33 +1,38 @@
 class Solution {
 public:
+    bool contains(vector<int> &mpS , vector<int> &mpT){
+        for (int i = 0 ; i < 256 ; i++){
+            if(mpT[i]>mpS[i]){
+                return false;
+            }
+        }
+        return true ;
+    }
     string minWindow(string s, string t) {
-        int cnt = t.size();
-        int l = 0 , r = 0 ;
-        int st = 0 ;
-        int mn = INT_MAX;
-        map<int , int> mp;
-        for (auto it : t){
-            mp[it]++;
-        }
-        while (r < s.size()){
-            if(mp[s[r]]>0){
-                cnt --;
-            }
-                mp[s[r]]--;
-                r++;
-                while (cnt == 0) {
-                if (r - l < mn) {
-                    mn = r - l;
-                    st = l;
-                }
+        vector <int> mpS(256 , 0);
+        vector <int> mpT(256 , 0);
 
-                mp[s[l]]++;
-                if(mp[s[l]]>0){
-                    cnt++;
-                }l++;
+        for (char ch : t) mpT[ch]++;
+
+        int left = 0 ;
+        int right = 0 ;
+        int len = INT_MAX;
+        int st = 0 ;
+
+        for (; right <s.length() ; right++){
+            mpS[s[right]]++;
+
+            while(contains(mpS , mpT)){
+                if(right - left + 1 < len){
+                    len = right - left + 1 ;
+                    st = left ;
+                }
+                mpS[s[left]]--;
+                left++;
             }
         }
-        
-       return mn == INT_MAX ? "" : s.substr(st, mn);
+        if(len==INT_MAX) return "";
+
+        return s.substr(st , len);
     }
 };
