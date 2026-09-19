@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/shrenika2/Leetcode_daily/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/shrenika2/Leetcode_daily/tree/master/0152-maximum-product-subarray) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shrenika2/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0088-merge-sorted-array) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shrenika2/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shrenika2/Leetcode_daily/tree/master/0141-linked-list-cycle) |
@@ -656,12 +659,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
