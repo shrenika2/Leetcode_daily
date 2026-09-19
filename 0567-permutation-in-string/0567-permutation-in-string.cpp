@@ -1,15 +1,35 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        sort(s1.begin() , s1.end());
-        int n = s1.size();
-        int m = s2.size();
-        for(int i = 0 ; i < m ; i++){
-            //for(int j = i ; j < i+n ; j++){
-               string a =  s2.substr(i , n);
-               sort(a.begin() , a.end());
-               if(a==s1) return true;
-           // }
+        unordered_map<char , int> mp ;
+        for (auto it : s1){
+            mp[it]++;
+        }
+        int cnt = mp.size();
+        int i = 0 ; int  j = 0 ;
+        int k = s1.size();
+        while(j < s2.size()){
+            if(mp.find(s2[j])!= mp.end()){
+                mp[s2[j]]--;
+                if(mp[s2[j]]==0){
+                    cnt--;
+                }
+            }
+            if(j-i+1 < k){
+                j++;
+            }else if(j-i+1 == k){
+                if(cnt == 0){
+                    return true ;
+                }
+                if(mp.find(s2[i]) != mp.end()){
+                    mp[s2[i]]++;
+                    if(mp[s2[i]] == 1){
+                    cnt++;
+                }
+            }
+            i++;
+            j++;
+            }
         }
         return false;
     }
