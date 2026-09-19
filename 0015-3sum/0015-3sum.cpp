@@ -1,73 +1,35 @@
-// class Solution {
-// public:
-// #define ll  long long
-//     vector<vector<int>> threeSum(vector<int>& nums) {
-//         int n = nums.size();
-//         set<vector<int>> st;
-//         //unordered_map<ll , ll> mp;
-       
-        
-//         for (int i = 0 ; i < n ; i++){
-//             unordered_map<int, int> mp;
-//             for (int j = i+1 ; j < n ; j++){
-//                 int req = -1*(nums[i]+nums[j]);
-//                if(mp.count(req)){
-//                    vector<int> t = {nums[i], nums[j], req};
-//                    sort(t.begin() , t.end());
-//                    st.insert(t);
-//                }
-//                mp[nums[j]]=j;
-//             }
-//         }
-//         return vector<vector<int>>(st.begin(), st.end()) ;
-//     }
-// };
-// Complexity
-// Time: O(n² log M) (because of set insertion)
-// Space: O(n + M)
-
 class Solution {
 public:
-#define ll  long long
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n = nums.size();
+        vector<vector<int> >ans ;
+
         sort(nums.begin() , nums.end());
-        vector<vector<int>>ans;
 
         for (int i = 0 ; i < n-2 ; i++){
-            if(i>0 && nums[i]==nums[i-1]) continue;
-            int l = i+1;
-            int r = n-1;
+            if(i>0 && nums[i]==nums[i-1]) continue ;
 
-            while(l<r){
-                int sm = nums[i]+nums[l]+nums[r];
+            int f = i+1 ;
+            int l = n-1;
 
-                if(sm==0){
-                    ans.push_back({nums[i] , nums[l] , nums[r]});
-                    l++;
-                    r--;
+            while(f < l){
+                int ex = (nums[i]+nums[f]+nums[l]);
 
-                    while(l<r && nums[l]==nums[l-1]){
-                        l++;
-                    }
-                    while (l < r && nums[r] == nums[r + 1]){
-                        r--;
-                    }
-                }else if(sm<0){
-                    l++;
+                if(ex==0) {
+                    ans.push_back({nums[i] , nums[f] , nums[l]});
+
+                    while(f < l && nums[f]==nums[f+1]) f++;
+                    while(f < l & nums[l]==nums[l-1]) l--;
+
+                    f++;
+                    l--;
+                }else if(ex<0){
+                    f++;
                 }else{
-                    r--;
+                    l--;
                 }
             }
         }
-
-    return ans ;
+        return ans ;
     }
 };
-
-// Time Complexity
-// Sorting: O(n log n)
-// Two pointers for each element: O(n²)
-// Overall: O(n²)
-// Space Complexity
-// O(1) (excluding the output)
