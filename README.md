@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shrenika2/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shrenika2/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/shrenika2/Leetcode_daily/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrenika2/Leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shrenika2/Leetcode_daily/tree/master/0876-middle-of-the-linked-list) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/shrenika2/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/shrenika2/Leetcode_daily/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shrenika2/Leetcode_daily/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shrenika2/Leetcode_daily/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shrenika2/Leetcode_daily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shrenika2/Leetcode_daily/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/shrenika2/Leetcode_daily/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shrenika2/Leetcode_daily/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrenika2/Leetcode_daily/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/shrenika2/Leetcode_daily/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/1096-brace-expansion-ii) |
