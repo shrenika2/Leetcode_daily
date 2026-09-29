@@ -39,10 +39,19 @@ public:
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.empty()) return nullptr;
-        ListNode* ans = lists[0];
-        for (int i = 1 ; i < lists.size() ; i++){
-            ans = merge(ans , lists[i]);
+        int n = lists.size();
+        while(n > 1){
+            int idx = 0 ;
+            for (int i = 0 ; i < n ; i+=2){
+                if(i+1  < n){
+                lists[idx]=merge(lists[i], lists[i+1]);
+                }else{
+                    lists[idx]=lists[i];
+                }
+                idx++;
+            }
+            n = idx;
         }
-        return ans ;
+        return lists[0];
     }
 };
