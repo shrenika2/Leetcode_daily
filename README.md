@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shrenika2/Leetcode_daily/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/shrenika2/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/shrenika2/Leetcode_daily/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shrenika2/Leetcode_daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shrenika2/Leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shrenika2/Leetcode_daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shrenika2/Leetcode_daily/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/shrenika2/Leetcode_daily/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shrenika2/Leetcode_daily/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/shrenika2/Leetcode_daily/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/1096-brace-expansion-ii) |
