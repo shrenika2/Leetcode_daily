@@ -21,25 +21,21 @@ public:
 
 class Solution {
 public:
-unordered_map<Node* , Node*> mp;
-Node* dfs(Node* node){
-if(mp.count(node)){
+    unordered_map<Node*, Node*> mp;
+    Node* dfs(Node* node){
+        if (!node) return nullptr;
+        if(mp.count(node)){
             return mp[node];
         }
+        Node* copy = new Node(node->val);
+        mp[node]=copy;
 
-        Node* clone = new Node(node->val);
-        mp[node]=clone;
-
-        for(Node* nei : node->neighbors){
-            clone->neighbors.push_back(cloneGraph(nei));
+        for (Node* nei: node->neighbors){
+            copy->neighbors.push_back(dfs(nei));
         }
-        return clone;
-}
-
+        return copy ;
+    }
     Node* cloneGraph(Node* node) {
-        
-        if(!node) return nullptr;
-
-        return dfs(node);
+       return dfs(node);
     }
 };
