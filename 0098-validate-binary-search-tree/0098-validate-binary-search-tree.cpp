@@ -11,18 +11,16 @@
  */
 class Solution {
 public:
-    bool help(TreeNode* root, long long low, long long high) {
+#define ll long long 
+    bool check(TreeNode* root ,  ll low , ll high ){
+        if(!root) return true ;
 
-        if(!root) return true;
+        if(root->val <= low || root->val >= high) return false;
 
-        if(root->val <= low || root->val >= high)
-            return false;
-
-        return help(root->left, low, root->val) &&
-               help(root->right, root->val, high);
+        return check(root->left , low , root->val) && check(root->right , root->val , high);
     }
-
     bool isValidBST(TreeNode* root) {
-        return help(root, LLONG_MIN, LLONG_MAX);
+        return check(root , LLONG_MIN , LLONG_MAX);
+        
     }
 };
