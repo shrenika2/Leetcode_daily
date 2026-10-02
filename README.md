@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shrenika2/Leetcode_daily/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shrenika2/Leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/shrenika2/Leetcode_daily/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrenika2/Leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shrenika2/Leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrenika2/Leetcode_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/shrenika2/Leetcode_daily/tree/master/0836-rectangle-overlap) |
@@ -859,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shrenika2/Leetcode_daily/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shrenika2/Leetcode_daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
