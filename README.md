@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shrenika2/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0525-contiguous-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shrenika2/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/shrenika2/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/shrenika2/Leetcode_daily/tree/master/0463-island-perimeter) |
+| [0525-contiguous-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/shrenika2/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrenika2/Leetcode_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/shrenika2/Leetcode_daily/tree/master/0695-max-area-of-island) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrenika2/Leetcode_daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/shrenika2/Leetcode_daily/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/shrenika2/Leetcode_daily/tree/master/0752-open-the-lock) |
