@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shrenika2/Leetcode_daily/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shrenika2/Leetcode_daily/tree/master/0100-same-tree) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shrenika2/Leetcode_daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shrenika2/Leetcode_daily/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/shrenika2/Leetcode_daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shrenika2/Leetcode_daily/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shrenika2/Leetcode_daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/shrenika2/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shrenika2/Leetcode_daily/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shrenika2/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shrenika2/Leetcode_daily/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/shrenika2/Leetcode_daily/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shrenika2/Leetcode_daily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shrenika2/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shrenika2/Leetcode_daily/tree/master/0127-word-ladder) |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shrenika2/Leetcode_daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shrenika2/Leetcode_daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shrenika2/Leetcode_daily/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/shrenika2/Leetcode_daily/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/1096-brace-expansion-ii) |
