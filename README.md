@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shrenika2/Leetcode_daily/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shrenika2/Leetcode_daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/shrenika2/Leetcode_daily/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/shrenika2/Leetcode_daily/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/shrenika2/Leetcode_daily/tree/master/0463-island-perimeter) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shrenika2/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shrenika2/Leetcode_daily/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/shrenika2/Leetcode_daily/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/shrenika2/Leetcode_daily/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/shrenika2/Leetcode_daily/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrenika2/Leetcode_daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shrenika2/Leetcode_daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shrenika2/Leetcode_daily/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/shrenika2/Leetcode_daily/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/shrenika2/Leetcode_daily/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
