@@ -1,40 +1,46 @@
 class LRUCache {
 public:
-    vector<pair<int , int>> cache;
-    int n ;
+    int n;
+    list<pair<int,int>>cache;
+    unordered_map<int , list<pair<int , int >>::iterator>mp;
+
+
     LRUCache(int capacity) {
         n = capacity;
     }
     
-    int get(int key)  {
-        for (int i = 0 ; i < cache.size(); i++){
-            if(cache[i].first==key){
-                int val = cache[i].second;
-
-                pair<int , int> temp = cache[i];
-                cache.erase(cache.begin()+i);
-                cache.push_back(temp);
-
-                return val;
-            }
+    int get(int key) {
+        if(mp.find(key)==mp.end()){
+            return -1;
         }
-        return -1 ;
+        auto it = mp[key];
+        int val = it->second;
+
+        cache.erase(it);
+        cache.push_back({key , val});
+
+        mp[key]=prev(cache.end());
+
+        return val;
     }
     
     void put(int key, int value) {
-        for (int i = 0 ; i < cache.size() ; i++){
-            if(cache[i].first==key){
-                cache.erase(cache.begin()+i);
-                cache.push_back({key , value});
-                return ;
-            }
+        if(mp.find(key)!=mp.end()){
+            cache.erase(mp[key]);
+
+            cache.push_back({key , value});
+            mp[key]=prev(cache.end());
+            return;
         }
+
         if(cache.size()==n){
-            cache.erase(cache.begin());
-            cache.push_back({key , value});
-        }else{
-            cache.push_back({key , value});
+            int remo = cache.front().first;
+
+            mp.erase(remo);
+            cache.pop_front();
         }
+        cache.push_back({key , value});
+        mp[key]=prev(cache.end());
     }
 };
 
