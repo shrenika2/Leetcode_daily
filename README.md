@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0525-contiguous-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shrenika2/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
+| [3026-maximum-good-subarray-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/3026-maximum-good-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrenika2/Leetcode_daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shrenika2/Leetcode_daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3026-maximum-good-subarray-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/3026-maximum-good-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shrenika2/Leetcode_daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shrenika2/Leetcode_daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrenika2/Leetcode_daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrenika2/Leetcode_daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shrenika2/Leetcode_daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3026-maximum-good-subarray-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/3026-maximum-good-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrenika2/Leetcode_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shrenika2/Leetcode_daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrenika2/Leetcode_daily/tree/master/3483-unique-3-digit-even-numbers) |
