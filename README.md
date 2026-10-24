@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/shrenika2/Leetcode_daily/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/shrenika2/Leetcode_daily/tree/master/0463-island-perimeter) |
+| [0503-next-greater-element-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/shrenika2/Leetcode_daily/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrenika2/Leetcode_daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/shrenika2/Leetcode_daily/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrenika2/Leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/shrenika2/Leetcode_daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrenika2/Leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shrenika2/Leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrenika2/Leetcode_daily/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
