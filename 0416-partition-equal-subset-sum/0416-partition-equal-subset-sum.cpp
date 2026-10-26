@@ -1,52 +1,33 @@
-// class Solution {
-// public:
-//     bool solve(vector<int>&nums , int i , int target){
-//         if(target==0){
-//             return true;
-//         }
-//         if(i==nums.size()||target<0){
-//             return false;
-//         }
-//         return solve(nums , i+1 , target-nums[i]) || solve(nums , i+1 , target);
-//     }
-//     bool canPartition(vector<int>& nums) {
-//         int n = nums.size();
-//         int sm = 0 ;
-//         for (auto it : nums){
-//             sm+= it;
-//         }
-//         if(sm%2!=0) return false;
-        
-//         return solve(nums , 0 , sm/2);
-//     }
-// };
-
-
 class Solution {
 public:
-    
+vector<vector<int>> dp;
+    bool solve(int i , vector<int> &nums , int target){
+        if(target==0){
+            return true ;
+        }
+        if(i<0) return false;
+        if(dp[i][target]!=-1){
+            return dp[i][target];
+        }
+        bool take = false;
+        if(nums[i]<=target){
+        take = solve(i-1 , nums , target-nums[i]);
+        }
+        int skip = solve(i-1 , nums , target);
+        return dp[i][target]=(take||skip);
+    }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
-        int sm = 0 ;
-        for (auto it : nums){
-            sm+= it;
+        int sum = 0 ;
+        for (int i = 0 ; i < n ; i++){
+            sum+=nums[i];
         }
-        if (sm % 2 != 0)
-        return false;
-        int t = sm/2;
-        vector<bool>dp(t+1 , 0);
+        if(sum%2!=0) return false;
+        int target = sum/2;
 
-        dp[0]=1;
-        for (int x : nums){
-            for (int j = t ; j>=x ; j--){
-                dp[j]=dp[j]||dp[j-x];
-            }
-        }
-        return dp[t];
+        dp.assign(n , vector<int>(target+1 , -1));
+         return solve(n-1 , nums , target);
+
+        
     }
 };
-
-
-// Complexity
-// Time: O(n × target)
-// Space: O(target)
