@@ -961,4 +961,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrenika2/Leetcode_daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shrenika2/Leetcode_daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
