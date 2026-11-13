@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/shrenika2/Leetcode_daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/shrenika2/Leetcode_daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shrenika2/Leetcode_daily/tree/master/1563-stone-game-v) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shrenika2/Leetcode_daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/shrenika2/Leetcode_daily/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/shrenika2/Leetcode_daily/tree/master/1514-path-with-maximum-probability) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shrenika2/Leetcode_daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shrenika2/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrenika2/Leetcode_daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1425-constrained-subsequence-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/shrenika2/Leetcode_daily/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shrenika2/Leetcode_daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shrenika2/Leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/shrenika2/Leetcode_daily/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shrenika2/Leetcode_daily/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1425-constrained-subsequence-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/shrenika2/Leetcode_daily/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
@@ -1039,11 +1043,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shrenika2/Leetcode_daily/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1425-constrained-subsequence-sum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shrenika2/Leetcode_daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shrenika2/Leetcode_daily/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1425-constrained-subsequence-sum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shrenika2/Leetcode_daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
