@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/shrenika2/Leetcode_daily/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shrenika2/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shrenika2/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/shrenika2/Leetcode_daily/tree/master/0525-contiguous-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shrenika2/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
 | [3026-maximum-good-subarray-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/3026-maximum-good-subarray-sum) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/shrenika2/Leetcode_daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/shrenika2/Leetcode_daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrenika2/Leetcode_daily/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/shrenika2/Leetcode_daily/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shrenika2/Leetcode_daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shrenika2/Leetcode_daily/tree/master/1872-stone-game-viii) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrenika2/Leetcode_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/shrenika2/Leetcode_daily/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shrenika2/Leetcode_daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/shrenika2/Leetcode_daily/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/shrenika2/Leetcode_daily/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrenika2/Leetcode_daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
